@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="38cm" height="42cm" viewBox="102 83 748 838" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="113.501" cy="125" rx="10" ry="10"/>
+  <g>
+    <rect style="fill: #ffffff" x="650" y="162" width="80" height="36" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="650" y="162" width="80" height="36" rx="20" ry="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="690" y="183.9">
+      <tspan x="690" y="183.9">Loading</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="625" y="362" width="134.75" height="36" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="625" y="362" width="134.75" height="36" rx="20" ry="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="692.375" y="383.9">
+      <tspan x="692.375" y="383.9">No index selected</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="123.501,125 690,125 690,157.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="685,149.764 690,159.764 695,149.764 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="693,285.75 693,301.75 692.376,301.75 692.376,357.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="687.376,349.764 692.376,359.764 697.376,349.764 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="611" y="547" width="164.3" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="611" y="547" width="164.3" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="693.15" y="568.9">
+      <tspan x="693.15" y="568.9">Fetching relevant data</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="692.376,398 692.376,424 693,424 693,445.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="688,437.764 693,447.764 698,437.764 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="744" y="417.75">index selection</text>
+  </g>
+  <ellipse style="fill: #000000" cx="693" cy="460" rx="10" ry="10"/>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="693,471.005 693,508.498 693.15,508.498 693.15,541.519 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="688.15,533.755 693.15,543.755 698.15,533.755 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="423.046" y="692.84" width="289.6" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="423.046" y="692.84" width="289.6" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="567.846" y="714.74">
+      <tspan x="567.846" y="714.74">Graphs, Tables, and prognostics displayed</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="328" y="517" width="114.75" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="328" y="517" width="114.75" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="385.375" y="538.9">
+      <tspan x="385.375" y="538.9">Error Recovery</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="611,565 526.875,565 526.875,535 447.222,535 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="454.986,530 444.986,535 454.986,540 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="588.001" y="559.75">error</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="385.374,517 421,517 421,275.75 677.529,275.75 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="669.765,280.75 679.765,275.75 669.765,270.75 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="498" y="422.626">error recovery possible</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="693.15,583 693.15,637.92 567.846,637.92 567.846,688.368 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="562.846,680.604 567.846,690.604 572.846,680.604 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="661.048" y="635.42">success</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="712.646,710.84 823.5,710.84 823.5,460 707.472,460 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="715.236,455 705.236,460 715.236,465 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="784" y="701.17">select another index</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="449" y="820" width="233.9" height="36" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="449" y="820" width="233.9" height="36" rx="20" ry="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="565.95" y="841.9">
+      <tspan x="565.95" y="841.9">Prognostic's comments displayed</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="567.846,728.84 567.846,774.42 565.95,774.42 565.95,815.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560.95,807.764 565.95,817.764 570.95,807.764 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="682.9,838 824,838 824,460 707.472,460 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="715.236,455 705.236,460 715.236,465 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="756" y="826.75">select another index</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="565.95,820 388,820 388,710.84 418.574,710.84 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="410.81,715.84 420.81,710.84 410.81,705.84 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="333" y="777.17">close comments</text>
+  </g>
+  <ellipse style="fill: #000000" cx="693" cy="275.75" rx="10" ry="10"/>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="689.126,195.75 689.126,230.248 693,230.248 693,260.275 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="688,252.511 693,262.511 698,252.511 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="761.124" y="213.75">page finishes loading</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="650,180 300.126,180 300.126,535 322.534,535 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="314.77,540 324.77,535 314.77,530 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="563.626" y="194.625">error while loading page</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="124.728" cy="611.902" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="124.728" cy="611.902" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="124.728" cy="611.902" rx="10" ry="10"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="385.374,553 225.372,553 225.372,611.902 144.2,611.902 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="151.964,606.902 141.964,611.902 151.964,616.902 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="296.814" y="566.826">unable to recover</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="423.046,692.84 225.438,692.84 225.438,611.902 144.2,611.902 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="151.964,606.902 141.964,611.902 151.964,616.902 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="391.834" y="686.232">click exit</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="565.95,856 565.95,900.5 449,900.5 449,842.472 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="454,850.236 449,840.236 444,850.236 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="511" y="916.5">select another prognostic</text>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="87cm" height="20cm" viewBox="921 99 1728 389" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polygon style="fill: #ffffff" points="923,203 1101,203 1213,335 1101,481 923,480 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="923,203 1101,203 1213,335 1101,481 923,480 "/>
+  </g>
+  <text font-size="24.0901" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="994" y="350">
+    <tspan x="994" y="350">Inactive</tspan>
+  </text>
+  <g>
+    <g>
+      <polygon style="fill: #ffffff" points="1309.22,193.35 1487.22,193.35 1599.22,325.35 1490.72,480.25 1315.72,480.25 1217.72,336.25 "/>
+      <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1309.22,193.35 1487.22,193.35 1599.22,325.35 1490.72,480.25 1315.72,480.25 1217.72,336.25 "/>
+    </g>
+    <text font-size="24.0901" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1350.22" y="346.75">
+      <tspan x="1350.22" y="346.75">Loading</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1693.91,183.35 1871.91,183.35 1983.91,315.35 1878.34,480.325 1699.52,480.325 1602.41,326.25 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1693.91,183.35 1871.91,183.35 1983.91,315.35 1878.34,480.325 1699.52,480.325 1602.41,326.25 "/>
+  </g>
+  <text font-size="24.0901" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1694.72" y="331.25">
+    <tspan x="1694.72" y="331.25">Displaying main page</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1210.19,115.25 1394.72,115.25 1394.72,115.008 1580.76,115.008 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1223.95,107.25 1207.95,115.25 1223.95,123.25 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1567,123.008 1583,115.008 1567,107.008 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1396.72" y="111.129">{t&lt;15s}</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="2079.93,195.311 2257.93,195.311 2372.6,316.181 2261.43,482.211 2086.43,482.211 1985.63,313.43 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2079.93,195.311 2257.93,195.311 2372.6,316.181 2261.43,482.211 2086.43,482.211 1985.63,313.43 "/>
+  </g>
+  <text font-size="24.0901" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2058.99" y="333.604">
+    <tspan x="2058.99" y="333.604">Loading data for graph</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="2470.18,199.667 2648.18,199.667 2647.02,486.514 2476.68,486.567 2375.88,317.786 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2470.18,199.667 2648.18,199.667 2647.02,486.514 2476.68,486.567 2375.88,317.786 "/>
+  </g>
+  <text font-size="24.0901" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2437.32" y="338.877">
+    <tspan x="2437.32" y="338.877">Displaying graph</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1986.06,122.521 2170.59,122.521 2170.59,122.279 2356.63,122.279 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1999.82,114.521 1983.82,122.521 1999.82,130.521 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2342.87,130.279 2358.87,122.279 2342.87,114.279 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="2172.59" y="118.4">{t&lt;3s}</text>
+  </g>
+</svg>

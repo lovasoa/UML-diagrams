@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="42cm" height="51cm" viewBox="273 149 821 1015" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="576" cy="160" rx="10" ry="10"/>
+  <g>
+    <rect style="fill: #ffffff" x="514" y="234" width="123.75" height="36" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="514" y="234" width="123.75" height="36" rx="20" ry="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="575.875" y="255.9">
+      <tspan x="575.875" y="255.9">Вход в систему</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="576,171.005 576,202.503 575.875,202.503 575.875,229.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="570.875,221.764 575.875,231.764 580.875,221.764 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="558.5,357 578.5,337 598.5,357 578.5,377 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="558.5,357 578.5,337 598.5,357 578.5,377 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="575.875,270 575.875,303.5 578.5,303.5 578.5,332.528 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="573.5,324.764 578.5,334.764 583.5,324.764 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="927" y="337" width="136.6" height="36" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="927" y="337" width="136.6" height="36" rx="20" ry="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="995.3" y="358.9">
+      <tspan x="995.3" y="358.9">показать ошибку</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="598.5,357 726,357 726,355 922.528,355 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="914.764,360 924.764,355 914.764,350 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="763" y="347">[неразрешенный IP-адрес]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="473" y="421.614" width="210.1" height="36" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="473" y="421.614" width="210.1" height="36" rx="20" ry="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="578.05" y="443.514">
+      <tspan x="578.05" y="443.514">показать главную страницу</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="578.5,377 578.5,399.307 578.05,399.307 578.05,417.142 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="573.05,409.378 578.05,419.378 583.05,409.378 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="608.502" y="388.433">[иначе]</text>
+  </g>
+  <rect style="fill: #000000" x="359.378" y="580.374" width="436.997" height="8"/>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="578.05,457.614 578.05,481.221 578.928,481.221 578.928,500.356 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="573.928,492.592 578.928,502.592 583.928,492.592 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="332.378" y="647.434" width="162.65" height="36" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="332.378" y="647.434" width="162.65" height="36" rx="20" ry="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="413.703" y="669.334">
+      <tspan x="413.703" y="669.334">показать диаграммы</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="666.41" y="659.34" width="149.7" height="36" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="666.41" y="659.34" width="149.7" height="36" rx="20" ry="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="741.26" y="681.24">
+      <tspan x="741.26" y="681.24">показать прогнозы</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="414.004,588.374 414.004,608.374 413.704,608.374 413.704,642.962 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="408.704,635.198 413.704,645.198 418.704,635.198 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="741.752,588.374 741.752,606.758 741.26,606.758 741.26,654.868 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="736.26,647.104 741.26,657.104 746.26,647.104 "/>
+  </g>
+  <rect style="fill: #000000" x="352.776" y="775.678" width="455.144" height="8"/>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="413.704,683.434 413.704,724.784 409.67,724.784 409.67,771.206 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="404.67,763.442 409.67,773.442 414.67,763.442 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="741.26,695.34 741.26,722.856 751.028,722.856 751.028,771.206 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="746.028,763.442 751.028,773.442 756.028,763.442 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="581.032,880.4 601.032,860.4 621.032,880.4 601.032,900.4 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="581.032,880.4 601.032,860.4 621.032,880.4 601.032,900.4 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="621.032,880.4 978.92,880.4 978.92,512.126 713.556,512.126 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="721.32,507.126 711.32,512.126 721.32,517.126 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="754.53" y="893.524">[щелкнуть "назад"]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="274.686" y="953.92" width="242.7" height="36" rx="20" ry="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="274.686" y="953.92" width="242.7" height="36" rx="20" ry="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="396.036" y="975.82">
+      <tspan x="396.036" y="975.82">покозать комментарии прогноза</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="581.032,880.4 550.406,880.4 550.406,967.192 524.252,967.192 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="532.016,962.192 522.016,967.192 532.016,972.192 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="498.374" y="876.812">[нажать на прогноз]</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="396.036,953.92 396.036,830.4 601.032,830.4 601.032,855.928 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="596.032,848.164 601.032,858.164 606.032,848.164 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="580.35,783.678 580.35,815.438 601.032,815.438 601.032,855.928 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="596.032,848.164 601.032,858.164 606.032,848.164 "/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="602.39" cy="1147.92" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="602.39" cy="1147.92" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="602.39" cy="1147.92" rx="10" ry="10"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="601.032,900.4 601.032,1016.66 602.39,1016.66 602.39,1128.45 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="597.39,1120.69 602.39,1130.69 607.39,1120.69 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="642.814" y="1013.65">[выключить]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="470.178" y="504.828" width="217.5" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="470.178" y="504.828" width="217.5" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="578.928" y="526.728">
+      <tspan x="578.928" y="526.728">выбрать финансовый индекс</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="578.928,540.828 578.928,561.383 581.218,561.383 581.218,577.466 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="576.218,569.702 581.218,579.702 586.218,569.702 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1063.6,355 1093.6,355 1093.6,1068.22 602.39,1068.22 602.39,1128.45 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="597.39,1120.69 602.39,1130.69 607.39,1120.69 "/>
+  </g>
+</svg>

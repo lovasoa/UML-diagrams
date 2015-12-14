@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="46cm" height="45cm" viewBox="463 664 913 892" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="479" y="685.5" width="740" height="566"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="479" y="685.5" width="740" height="566"/>
+    <rect style="fill: #ffffff" x="479" y="665.5" width="81" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="479" y="665.5" width="81" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="481" y="679.5">ClientSide</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="464" y="1295.5" width="910.75" height="259"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="464" y="1295.5" width="910.75" height="259"/>
+    <rect style="fill: #ffffff" x="464" y="1275.5" width="81" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="464" y="1275.5" width="81" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="466" y="1289.5">ServerSide</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="595" y="1131.5" width="127.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="595" y="1131.5" width="127.5" height="28"/>
+    <rect style="fill: #ffffff" x="595" y="1113.5" width="30" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="595" y="1113.5" width="30" height="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="601" y="1149.4">
+      <tspan x="601" y="1149.4">StockMarketData</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="956" y="1148.5" width="250.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="956" y="1148.5" width="250.7" height="28"/>
+    <rect style="fill: #ffffff" x="956" y="1130.5" width="30" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="956" y="1130.5" width="30" height="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="962" y="1166.4">
+      <tspan x="962" y="1166.4">SpecialistCommentsAndPrevisions</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="954.992,1162.5 843.25,1162.5 843.25,1145.5 730.213,1145.5 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="742.861,1140.5 726.861,1145.5 742.861,1150.5 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="845.25" y="1154">&lt;&lt;extends&gt;&gt;</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="584" y="724.5" width="467" height="243"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="584" y="724.5" width="467" height="243"/>
+    <rect style="fill: #ffffff" x="584" y="704.5" width="40" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="584" y="704.5" width="40" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="586" y="718.5">GUI</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="856.105,771.5 1037,771.5 1037,900.5 1015.41,900.5 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1028.05,895.5 1012.05,900.5 1028.05,905.5 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="799.05,786.507 799.05,831.004 859.8,831.004 859.8,876.795 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="854.8,864.147 859.8,880.147 864.8,864.147 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="829.425" y="831.004">&lt;&lt;import&gt;&gt;</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="799.05,786.273 799.05,833.5 764.95,833.5 764.95,857.787 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="759.95,845.14 764.95,861.14 769.95,845.14 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="741.995,771.5 597,771.5 597,894.5 623.3,894.5 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="610.653,899.5 626.653,894.5 610.653,889.5 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="599" y="833">&lt;&lt;import&gt;&gt;</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="732" y="883.5" width="65.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="732" y="883.5" width="65.9" height="28"/>
+    <rect style="fill: #ffffff" x="732" y="865.5" width="30" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="732" y="865.5" width="30" height="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="738" y="901.4">
+      <tspan x="738" y="901.4">Graphic</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="823" y="883.5" width="73.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="823" y="883.5" width="73.6" height="28"/>
+    <rect style="fill: #ffffff" x="823" y="865.5" width="30" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="823" y="865.5" width="30" height="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="829" y="901.4">
+      <tspan x="829" y="901.4">Comments</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="631" y="880.5" width="81.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="631" y="880.5" width="81.3" height="28"/>
+    <rect style="fill: #ffffff" x="631" y="862.5" width="30" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="631" y="862.5" width="30" height="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="637" y="898.4">
+      <tspan x="637" y="898.4">DataInput</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="912" y="886.5" width="96.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="912" y="886.5" width="96.7" height="28"/>
+    <rect style="fill: #ffffff" x="912" y="868.5" width="30" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="912" y="868.5" width="30" height="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="918" y="904.4">
+      <tspan x="918" y="904.4">WelcomePage</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="743" y="757.5" width="112.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="743" y="757.5" width="112.1" height="28"/>
+    <rect style="fill: #ffffff" x="743" y="739.5" width="30" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="743" y="739.5" width="30" height="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="749" y="775.4">
+      <tspan x="749" y="775.4">UserInterface</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="859.8,912.481 859.8,1013.5 1081.35,1013.5 1081.35,1122.79 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1076.35,1110.14 1081.35,1126.14 1086.35,1110.14 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="970.575" y="1013.5">&lt;&lt;use&gt;&gt;</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="764.95,912.507 764.95,1008.5 658.75,1008.5 658.75,1105.79 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="653.75,1093.14 658.75,1109.14 663.75,1093.14 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="711.85" y="1008.5">&lt;&lt;use&gt;&gt;</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="490" y="1330.75" width="566" height="213"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="490" y="1330.75" width="566" height="213"/>
+    <rect style="fill: #ffffff" x="490" y="1310.75" width="65.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="490" y="1310.75" width="65.6" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="492" y="1324.75">Database</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="509" y="1330.75" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="509" y="1330.75" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="618.25" y="1344.75">StockMarketIndex</text>
+    <rect style="fill: #ffffff" x="509" y="1348.75" width="218.5" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="509" y="1348.75" width="218.5" height="52"/>
+    <polygon style="fill: #000000" points="512,1358.75 514,1361.75 516,1358.75 514,1355.75 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="518" y="1364.75">StrockMarketIndexId</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="674.3" y="1364.75">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="518" y1="1366.35" x2="697.4" y2="1366.35"/>
+    <ellipse style="fill: #000000" cx="514" cy="1374.75" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="518" y="1380.75">name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="674.3" y="1380.75">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="514" cy="1390.75" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="518" y="1396.75">color</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="674.3" y="1396.75">string</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="819" y="1348.75" width="210.8" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="819" y="1348.75" width="210.8" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="924.4" y="1362.75">StockMarketValues</text>
+    <rect style="fill: #ffffff" x="819" y="1366.75" width="210.8" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="819" y="1366.75" width="210.8" height="52"/>
+    <polygon style="fill: #000000" points="822,1376.75 824,1379.75 826,1376.75 824,1373.75 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="828" y="1382.75">StrockMarketIndexId</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="984.3" y="1382.75">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="828" y1="1384.35" x2="1007.4" y2="1384.35"/>
+    <polygon style="fill: #000000" points="822,1392.75 824,1395.75 826,1392.75 824,1389.75 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="828" y="1398.75">date</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="984.3" y="1398.75">date</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="828" y1="1400.35" x2="1015.1" y2="1400.35"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="824" cy="1408.75" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="828" y="1414.75">value</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="984.3" y="1414.75">float</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="727.5,1390.75 773.25,1390.75 773.25,1392.75 819,1392.75 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="731.5" y="1386.75">1..1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="815" y="1388.75">0..n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="634" y="1458.75" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="634" y="1458.75" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="743.25" y="1472.75">AnalystComments</text>
+    <rect style="fill: #ffffff" x="634" y="1476.75" width="218.5" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="634" y="1476.75" width="218.5" height="52"/>
+    <polygon style="fill: #000000" points="637,1486.75 639,1489.75 641,1486.75 639,1483.75 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="643" y="1492.75">StrockMarketIndexId</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="799.3" y="1492.75">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="643" y1="1494.35" x2="822.4" y2="1494.35"/>
+    <polygon style="fill: #000000" points="637,1502.75 639,1505.75 641,1502.75 639,1499.75 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="643" y="1508.75">date</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="799.3" y="1508.75">date</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="643" y1="1510.35" x2="830.1" y2="1510.35"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="639" cy="1518.75" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="643" y="1524.75">comment</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="799.3" y="1524.75">string</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="618.25,1400.75 618.25,1429.75 743.25,1429.75 743.25,1458.75 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="622.25" y="1412.75">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="747.25" y="1454.75">0..n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1068" y="1342" width="287.75" height="201"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1068" y="1342" width="287.75" height="201"/>
+    <rect style="fill: #ffffff" x="1068" y="1322" width="50.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1068" y="1322" width="50.2" height="20"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1070" y="1336">WebAPI</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1159" y="1389" width="73.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1159" y="1389" width="73.6" height="28"/>
+    <rect style="fill: #ffffff" x="1159" y="1371" width="30" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1159" y="1371" width="30" height="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1165" y="1406.9">
+      <tspan x="1165" y="1406.9">REST API</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1144.75" y="1491" width="112.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1144.75" y="1491" width="112.1" height="28"/>
+    <rect style="fill: #ffffff" x="1144.75" y="1473" width="30" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1144.75" y="1473" width="30" height="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1150.75" y="1508.9">
+      <tspan x="1150.75" y="1508.9">DataBaseQuery</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="1195.8,1418.01 1195.8,1441 1200.8,1441 1200.8,1465.29 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1195.8,1452.64 1200.8,1468.64 1205.8,1452.64 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="658.75,1160.51 658.75,1261.25 1195.8,1261.25 1195.8,1363.29 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1190.8,1350.64 1195.8,1366.64 1200.8,1350.64 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="1207.7,1162.5 1265,1162.5 1265,1403 1240.3,1403 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1252.95,1398 1236.95,1403 1252.95,1408 "/>
+  </g>
+</svg>

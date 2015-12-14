@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="40cm" height="29cm" viewBox="433 393 796 573" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="812.001" y="397.75" width="177" height="85"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="812.001" y="397.75" width="177" height="85"/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="875.157" y="445.25">
+    <tspan x="875.157" y="445.25">:Server</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="528.5" y="394.85" width="177" height="85"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="528.5" y="394.85" width="177" height="85"/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="596" y="440.35">
+    <tspan x="596" y="440.35">:Client</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="617" y1="559.76" x2="617" y2="600.122"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="617" y1="850.122" x2="617" y2="964.387"/>
+    <rect style="fill: #ffffff" x="610" y="600.122" width="14" height="250"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="610" y="600.122" width="14" height="250"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="900.501" y1="482.75" x2="900.501" y2="559.665"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="900.501" y1="599.665" x2="900.501" y2="599.665"/>
+    <rect style="fill: #ffffff" x="893.501" y="559.665" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="893.501" y="559.665" width="14" height="40"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="900.501" y1="599.665" x2="900.501" y2="649.755"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="900.501" y1="769.755" x2="900.501" y2="960.496"/>
+    <rect style="fill: #ffffff" x="893.501" y="649.755" width="14" height="120"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="893.501" y="649.755" width="14" height="120"/>
+  </g>
+  <ellipse style="fill: #000000" cx="444.461" cy="519.804" rx="10" ry="10"/>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="454.461,519.804 532.23,519.804 532.23,519.76 605.528,519.76 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="597.764,524.76 607.764,519.76 597.764,514.76 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="533.33" y="514.761">loadPage</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="900.501,599.665 773.75,599.665 773.75,600.122 628.472,600.122 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="636.236,595.122 626.236,600.122 636.236,605.122 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="770.591" y="594.615">applicationFiles</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="617" y1="479.85" x2="617" y2="519.76"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="617" y1="559.76" x2="617" y2="568.634"/>
+    <rect style="fill: #ffffff" x="610" y="519.76" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="610" y="519.76" width="14" height="40"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="624,559.76 758.75,559.76 758.75,559.665 889.028,559.665 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="881.264,564.665 891.264,559.665 881.264,554.665 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="751.458" y="547.976">HTTPMainAppRequest</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1050.82" y="397.614" width="177" height="85"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1050.82" y="397.614" width="177" height="85"/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1118.02" y="445.41">
+    <tspan x="1118.02" y="445.41">:Database</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="624,650.122 758.75,650.122 758.75,649.755 889.028,649.755 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="881.264,654.755 891.264,649.755 881.264,644.755 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="766.825" y="645.938">APIRequest</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1139.32" y1="482.614" x2="1139.32" y2="689.507"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="1139.32" y1="729.507" x2="1139.32" y2="965.683"/>
+    <rect style="fill: #ffffff" x="1132.32" y="689.507" width="14" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1132.32" y="689.507" width="14" height="40"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="907.501,689.755 1019.91,689.755 1019.91,689.507 1127.85,689.507 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1120.08,694.507 1130.08,689.507 1120.08,684.507 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1022.32" y="682.631">SQLRequest</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1132.32,729.507 1019.91,729.507 1019.91,729.755 911.973,729.755 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="919.737,724.755 909.737,729.755 919.737,734.755 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1048.32" y="725.63">DatabaseCursor</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="893.501,769.755 758.75,769.755 758.75,775.122 628.472,775.122 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="636.236,770.122 626.236,775.122 636.236,780.122 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="759.825" y="764.756">JSONData</text>
+  </g>
+</svg>
